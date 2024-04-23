@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T05:40:08.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="m2A3sLnM8nuXjSLN_l7r" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T05:58:04.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VVEr5NFhsR3gcgsDfeIm" version="24.2.8" type="github">
   <diagram name="第 1 页" id="PaoTdxEBwnt5lx0QqPXZ">
     <mxGraphModel dx="2062" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         </mxCell>
         <mxCell id="IKUrVmOaBzae8c3cRDZs-70" value="TCPTSB.XSXM=TXSXM.ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IKUrVmOaBzae8c3cRDZs-69" vertex="1" connectable="0">
           <mxGeometry x="-0.4301" y="1" relative="1" as="geometry">
-            <mxPoint x="-69" y="39" as="offset" />
+            <mxPoint x="-29" y="-322" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IKUrVmOaBzae8c3cRDZs-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.998;exitY=0.038;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="IKUrVmOaBzae8c3cRDZs-57" target="IKUrVmOaBzae8c3cRDZs-61" edge="1">
@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_bzI5N2TxXfqL28c7ql7-1" value="TTBCPQC" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1390" width="180" height="560" as="geometry" />
+          <mxGeometry x="400" y="1390" width="180" height="720" as="geometry" />
         </mxCell>
         <mxCell id="_bzI5N2TxXfqL28c7ql7-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="_bzI5N2TxXfqL28c7ql7-1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -216,28 +216,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_bzI5N2TxXfqL28c7ql7-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="_bzI5N2TxXfqL28c7ql7-1">
-          <mxGeometry y="60" width="180" height="500" as="geometry" />
+          <mxGeometry y="60" width="180" height="660" as="geometry" />
         </mxCell>
         <mxCell id="_bzI5N2TxXfqL28c7ql7-6" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="_bzI5N2TxXfqL28c7ql7-5">
-          <mxGeometry width="30" height="500" as="geometry">
-            <mxRectangle width="30" height="500" as="alternateBounds" />
+          <mxGeometry width="30" height="660" as="geometry">
+            <mxRectangle width="30" height="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_bzI5N2TxXfqL28c7ql7-7" value="&lt;div&gt;销售项目&lt;span&gt;&#x9;&lt;/span&gt;XSXM&lt;/div&gt;&lt;div&gt;开放日&lt;span&gt;&#x9;&lt;/span&gt;KFR&lt;/div&gt;&lt;div&gt;开放日类型&lt;span&gt;&#x9;&lt;/span&gt;KFRLX&lt;/div&gt;&lt;div&gt;计划清算时间&lt;span&gt;&#x9;&lt;/span&gt;JHQSSJ&lt;/div&gt;&lt;div&gt;申报状态&lt;span&gt;&#x9;&lt;/span&gt;SBZT&lt;/div&gt;&lt;div&gt;申报时间&lt;span&gt;&#x9;&lt;/span&gt;SBSJ&lt;/div&gt;&lt;div&gt;申报人&lt;span&gt;&#x9;&lt;/span&gt;SBR&lt;/div&gt;&lt;div&gt;确认状态&lt;span&gt;&#x9;&lt;/span&gt;QRZT&lt;/div&gt;&lt;div&gt;确认时间&lt;span&gt;&#x9;&lt;/span&gt;QRSJ&lt;/div&gt;&lt;div&gt;数据有效标识&lt;span&gt;&#x9;&lt;/span&gt;SJYXBS&lt;/div&gt;&lt;div&gt;创建时间&lt;span&gt;&#x9;&lt;/span&gt;CJSJ&lt;/div&gt;&lt;div&gt;创建人&lt;span&gt;&#x9;&lt;/span&gt;CJR&lt;/div&gt;&lt;div&gt;反确认时间&lt;span&gt;&#x9;&lt;/span&gt;FQRSJ&lt;/div&gt;&lt;div&gt;反确认次数&lt;span&gt;&#x9;&lt;/span&gt;FQRCS&lt;/div&gt;&lt;div&gt;反确认操作人&lt;span&gt;&#x9;&lt;/span&gt;FQRCZR&lt;/div&gt;&lt;div&gt;推送次数&lt;span&gt;&#x9;&lt;/span&gt;TSCS&lt;/div&gt;&lt;div&gt;实际清算时间&lt;span&gt;&#x9;&lt;/span&gt;SJQSSJ&lt;/div&gt;&lt;div&gt;批次号&lt;span&gt;&#x9;&lt;/span&gt;PCH&lt;/div&gt;&lt;div&gt;是否发送短信&lt;span&gt;&#x9;&lt;/span&gt;SFFSDX&lt;/div&gt;&lt;div&gt;当前人是否发送短信&lt;span&gt;&#x9;&lt;/span&gt;DQRSFFSDX&lt;/div&gt;&lt;div&gt;销售项目&lt;span&gt;&#x9;&lt;/span&gt;XSXM&lt;/div&gt;&lt;div&gt;开放日&lt;span&gt;&#x9;&lt;/span&gt;KFR&lt;/div&gt;&lt;div&gt;开放日类型&lt;span&gt;&#x9;&lt;/span&gt;KFRLX&lt;/div&gt;&lt;div&gt;计划清算时间&lt;span&gt;&#x9;&lt;/span&gt;JHQSSJ&lt;/div&gt;&lt;div&gt;申报状态&lt;span&gt;&#x9;&lt;/span&gt;SBZT&lt;/div&gt;&lt;div&gt;申报时间&lt;span&gt;&#x9;&lt;/span&gt;SBSJ&lt;/div&gt;&lt;div&gt;申报人&lt;span&gt;&#x9;&lt;/span&gt;SBR&lt;/div&gt;&lt;div&gt;确认状态&lt;span&gt;&#x9;&lt;/span&gt;QRZT&lt;/div&gt;&lt;div&gt;确认时间&lt;span&gt;&#x9;&lt;/span&gt;QRSJ&lt;/div&gt;&lt;div&gt;数据有效标识&lt;span&gt;&#x9;&lt;/span&gt;SJYXBS&lt;/div&gt;&lt;div&gt;创建时间&lt;span&gt;&#x9;&lt;/span&gt;CJSJ&lt;/div&gt;&lt;div&gt;创建人&lt;span&gt;&#x9;&lt;/span&gt;CJR&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="_bzI5N2TxXfqL28c7ql7-5">
-          <mxGeometry x="30" width="150" height="500" as="geometry">
-            <mxRectangle width="150" height="500" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_bzI5N2TxXfqL28c7ql7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_bzI5N2TxXfqL28c7ql7-5" target="IKUrVmOaBzae8c3cRDZs-84">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="1700" />
-              <mxPoint x="350" y="902" />
-            </Array>
+        <mxCell id="_bzI5N2TxXfqL28c7ql7-7" value="&lt;div&gt;ID&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;ID&lt;/div&gt;&lt;div&gt;期次ID&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;QCID&lt;/div&gt;&lt;div&gt;产品ID&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;CPID&lt;/div&gt;&lt;div&gt;产品编码&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;CPBM&lt;/div&gt;&lt;div&gt;开放日类型&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;KFRLX&lt;/div&gt;&lt;div&gt;开放日&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;KFR&lt;/div&gt;&lt;div&gt;期次到期日&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;QCDQR&lt;/div&gt;&lt;div&gt;业务类型&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;YWLX&lt;/div&gt;&lt;div&gt;销售开始时间&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;XSKSSJ&lt;/div&gt;&lt;div&gt;销售结束时间&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;XSJSSJ&lt;/div&gt;&lt;div&gt;清算时间&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;QSSJ&lt;/div&gt;&lt;div&gt;费率方案&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;FLFA&lt;/div&gt;&lt;div&gt;额度方案&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;EDFA&lt;/div&gt;&lt;div&gt;额度方案名称&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;EDFAMC&lt;/div&gt;&lt;div&gt;收益率方案ID&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;SYLFAID&lt;/div&gt;&lt;div&gt;收益率方案名称&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;SYLFAMC&lt;/div&gt;&lt;div&gt;禁止取消买入时间&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;JZMRSJ&lt;/div&gt;&lt;div&gt;禁止取消赎回时间&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;JZQXSHSJ&lt;/div&gt;&lt;div&gt;禁止退款时间&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;JZTKSJ&lt;/div&gt;&lt;div&gt;展示渠道&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;ZSQD&lt;/div&gt;&lt;div&gt;是否复制期次&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;SFFZQC&lt;/div&gt;&lt;div&gt;进账截止时间类型&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;JZJZSJLX&lt;/div&gt;&lt;div&gt;app允许打款周期&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;APPYXDKZQ&lt;/div&gt;&lt;div&gt;app进账截止时间&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;APPJZJZSJ&lt;/div&gt;&lt;div&gt;crm允许打款周期&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;CRMYXDKZQ&lt;/div&gt;&lt;div&gt;续期开放开始时间&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;XQKFKSSJ&lt;/div&gt;&lt;div&gt;续期开放结束时间&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;XQKFJSSJ&lt;/div&gt;&lt;div&gt;创建人&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;CJR&lt;/div&gt;&lt;div&gt;创建时间&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;CJSJ&lt;/div&gt;&lt;div&gt;修改人&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;XGR&lt;/div&gt;&lt;div&gt;修改时间&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;XGSJ&lt;/div&gt;&lt;div&gt;crm进账截止时间&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;CRMJZJZSJ&lt;/div&gt;&lt;div&gt;期次名称&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;QCMC&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="_bzI5N2TxXfqL28c7ql7-5">
+          <mxGeometry x="30" width="150" height="660" as="geometry">
+            <mxRectangle width="150" height="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_bzI5N2TxXfqL28c7ql7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IKUrVmOaBzae8c3cRDZs-48" target="_bzI5N2TxXfqL28c7ql7-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="435" />
+              <mxPoint x="260" y="1435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_bzI5N2TxXfqL28c7ql7-13" value="TTBCPQC.QCID=TCPDD.CPQC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_bzI5N2TxXfqL28c7ql7-10">
+          <mxGeometry x="-0.2694" y="-3" relative="1" as="geometry">
+            <mxPoint x="-17" y="-74" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_bzI5N2TxXfqL28c7ql7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IKUrVmOaBzae8c3cRDZs-84" target="_bzI5N2TxXfqL28c7ql7-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="1070" />
+              <mxPoint x="350" y="1780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_bzI5N2TxXfqL28c7ql7-16" value="&lt;div&gt;TCPTSB.KFR=TTBCPQC.KFR&lt;/div&gt;&lt;div&gt;TCPTSB.XSXM=TTBCPQC.CPID&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_bzI5N2TxXfqL28c7ql7-15">
+          <mxGeometry x="-0.171" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
