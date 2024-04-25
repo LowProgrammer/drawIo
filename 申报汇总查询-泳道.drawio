@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T09:30:56.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Rcqa74jh4gfOqgst8Rc_" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T09:31:50.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="h5gwFhDM6QuXxsY8FhSH" version="24.2.8" type="github">
   <diagram name="第 1 页" id="-3_6qP_3UcvdMklZL6VI">
     <mxGraphModel dx="875" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
             <mxGeometry x="92.00000000000045" y="490" width="162" height="46" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="批量查询数据返回" tags="Background" id="IRU5qY2hAN1wVBU6397p-49">
+        <UserObject label="批量查询数据返回&lt;div&gt;（不存在期次和开放日、存在但无订单，有订单）&lt;/div&gt;" tags="Background" id="IRU5qY2hAN1wVBU6397p-49">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=8;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBRDoQgDERP03+WHsHFe5iISyOCQdT19kIaIxq//Jtp3zTpAFaTaUYNUkwx+F6v1EYD+AUpyRkdKCYFqACrzgf9C352LfuxyWRWg1/yhT/nRE5IsZWuZtCSK8CPeI0e/hF+jV7AJM4PO7KWCyr390bSiNtEtQM=);strokeColor=#000000;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="IRU5qY2hAN1wVBU6397p-38" vertex="1">
             <mxGeometry x="92.00000000000045" y="580" width="162" height="46" as="geometry" />
           </mxCell>
