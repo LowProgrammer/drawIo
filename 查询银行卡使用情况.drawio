@@ -1,9 +1,168 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T08:54:24.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Zum13AfUp40aX0gG-Zek" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T09:24:43.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8nPh-AjmwEz4Uknspx5R" version="24.3.1" type="github">
   <diagram name="第 1 页" id="4qdwNiVm0ymUn8DNlQiw">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="79PVir5TLMsAhhLRZjO0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FCfZ8RU9Q_l8p1jcDTuG-1" target="79PVir5TLMsAhhLRZjO0-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="350" />
+              <mxPoint x="350" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCfZ8RU9Q_l8p1jcDTuG-1" value="LcHTRSGSQBD" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="120" width="180" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="FCfZ8RU9Q_l8p1jcDTuG-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="FCfZ8RU9Q_l8p1jcDTuG-1" vertex="1">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FCfZ8RU9Q_l8p1jcDTuG-3" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="FCfZ8RU9Q_l8p1jcDTuG-2" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCfZ8RU9Q_l8p1jcDTuG-4" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="FCfZ8RU9Q_l8p1jcDTuG-2" vertex="1">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCfZ8RU9Q_l8p1jcDTuG-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="FCfZ8RU9Q_l8p1jcDTuG-1" vertex="1">
+          <mxGeometry y="60" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="FCfZ8RU9Q_l8p1jcDTuG-6" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="FCfZ8RU9Q_l8p1jcDTuG-5" vertex="1">
+          <mxGeometry width="30" height="280" as="geometry">
+            <mxRectangle width="30" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCfZ8RU9Q_l8p1jcDTuG-7" value="&lt;div&gt;ID&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;ID&lt;/div&gt;&lt;div&gt;InstID&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;InstID&lt;/div&gt;&lt;div&gt;ZT&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;主题&lt;/div&gt;&lt;div&gt;DDID&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;订单ID&lt;/div&gt;&lt;div&gt;HTXX&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;合同信息&lt;/div&gt;&lt;div&gt;CPYYID&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;产品预约&lt;/div&gt;&lt;div&gt;CPID&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;产品名称&lt;/div&gt;&lt;div&gt;XSXM&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;销售项目&lt;/div&gt;&lt;div&gt;YYB&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;隶属部门&lt;/div&gt;&lt;div&gt;ZJJZ&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;资金进账&lt;/div&gt;&lt;div&gt;KHXM&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;受益人姓名&lt;/div&gt;&lt;div&gt;ZJLB&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;受益人证件类别&lt;/div&gt;&lt;div&gt;ZJBH&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;受益人证件编号&lt;/div&gt;&lt;div&gt;KHYH&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;受益返还开户银行&lt;/div&gt;&lt;div&gt;SYFHYH&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;受益返还银行&lt;/div&gt;&lt;div&gt;ZHMC&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;受益返还支行名称&lt;/div&gt;&lt;div&gt;YHZHMC&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;受益返还银行户名&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;text-align: center; text-wrap: nowrap;&quot;&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="FCfZ8RU9Q_l8p1jcDTuG-5" vertex="1">
+          <mxGeometry x="30" width="150" height="280" as="geometry">
+            <mxRectangle width="150" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCfZ8RU9Q_l8p1jcDTuG-8" value="TXSXM" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="120" width="180" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="FCfZ8RU9Q_l8p1jcDTuG-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="FCfZ8RU9Q_l8p1jcDTuG-8" vertex="1">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FCfZ8RU9Q_l8p1jcDTuG-10" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="FCfZ8RU9Q_l8p1jcDTuG-9" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCfZ8RU9Q_l8p1jcDTuG-11" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="FCfZ8RU9Q_l8p1jcDTuG-9" vertex="1">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCfZ8RU9Q_l8p1jcDTuG-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="FCfZ8RU9Q_l8p1jcDTuG-8" vertex="1">
+          <mxGeometry y="60" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="FCfZ8RU9Q_l8p1jcDTuG-13" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="FCfZ8RU9Q_l8p1jcDTuG-12" vertex="1">
+          <mxGeometry width="30" height="280" as="geometry">
+            <mxRectangle width="30" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FCfZ8RU9Q_l8p1jcDTuG-14" value="&lt;div&gt;产品信息&lt;span&gt;&#x9;&lt;/span&gt;CPID&lt;br&gt;&lt;/div&gt;&lt;div&gt;是否涉及债转安排&lt;span&gt;&#x9;&lt;/span&gt;SFSJZZAP&lt;span&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;循环期_实体字段&lt;span&gt;&#x9;&lt;/span&gt;XHQ&lt;span&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;循环期期限单位&lt;span&gt;&#x9;&lt;/span&gt;XHQDW&lt;span&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;摊还期_实体字段&lt;span&gt;&#x9;&lt;/span&gt;THQ&lt;span&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;摊还期期限单位&lt;span&gt;&#x9;&lt;/span&gt;THQDW&lt;span&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;客群ID&lt;span&gt;&#x9;&lt;/span&gt;KQID&lt;span&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;创建时间&lt;span&gt;&#x9;&lt;/span&gt;CJSJ&lt;span&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;是否自动续期&lt;span&gt;&#x9;&lt;/span&gt;SFZDXQ&lt;span&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;是否允许转入&lt;span&gt;&#x9;&lt;/span&gt;SFYXZR&lt;span&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;是否允许转出&lt;span&gt;&#x9;&lt;/span&gt;SFYXZC&lt;span&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;追加签署页&lt;span&gt;&#x9;&lt;/span&gt;ZJQSY&lt;span&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;转投协议&lt;span&gt;&#x9;&lt;/span&gt;ZTXY&lt;span&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;撤销确认书&lt;span&gt;&#x9;&lt;/span&gt;CXQRS&lt;span&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;个人追加起点(单位:元)&lt;span&gt;&#x9;&lt;/span&gt;GRZJQD&lt;span&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;成立日期 CLRQ&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="FCfZ8RU9Q_l8p1jcDTuG-12" vertex="1">
+          <mxGeometry x="30" width="150" height="280" as="geometry">
+            <mxRectangle width="150" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-1" value="TDZHTK" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="600" width="180" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="79PVir5TLMsAhhLRZjO0-1" vertex="1">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-3" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="79PVir5TLMsAhhLRZjO0-2" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-4" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="79PVir5TLMsAhhLRZjO0-2" vertex="1">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="79PVir5TLMsAhhLRZjO0-1" vertex="1">
+          <mxGeometry y="60" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-6" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="79PVir5TLMsAhhLRZjO0-5" vertex="1">
+          <mxGeometry width="30" height="280" as="geometry">
+            <mxRectangle width="30" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-7" value="&lt;div&gt;&lt;div&gt;模板类型&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;HTMB&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;选择项&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;组合框&lt;/div&gt;&lt;div&gt;合同名称&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;HTMC&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;文本&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;编辑框&lt;/div&gt;&lt;div&gt;生成时间&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;SCSJ&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;日期+时间&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;日期时间控件&lt;/div&gt;&lt;div&gt;是否有效&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;HTZT&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;选择项&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;组合框&lt;/div&gt;&lt;div&gt;合同文件&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;HTWJ&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;文件&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;文件上传&lt;/div&gt;&lt;div&gt;合同文件影像档号&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;HTWJ_YXDH&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;文本&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;编辑框&lt;/div&gt;&lt;div&gt;产品信息&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;CPID&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;内部对象&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;选项编辑框&lt;/div&gt;&lt;div&gt;销售项目&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;XSXM&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;内部对象&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;选项编辑框&lt;/div&gt;&lt;div&gt;业务ID&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;YWID&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;文本&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;编辑框&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="79PVir5TLMsAhhLRZjO0-5" vertex="1">
+          <mxGeometry x="30" width="150" height="280" as="geometry">
+            <mxRectangle width="150" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-8" value="THTSYR" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="560" width="180" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="79PVir5TLMsAhhLRZjO0-8" vertex="1">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-10" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="79PVir5TLMsAhhLRZjO0-9" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-11" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="79PVir5TLMsAhhLRZjO0-9" vertex="1">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="79PVir5TLMsAhhLRZjO0-8" vertex="1">
+          <mxGeometry y="60" width="180" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-13" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="79PVir5TLMsAhhLRZjO0-12" vertex="1">
+          <mxGeometry width="30" height="320" as="geometry">
+            <mxRectangle width="30" height="320" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-14" value="&lt;div&gt;客户ID&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;KHH&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;内部对象&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;选项编辑框&lt;/div&gt;&lt;div&gt;客户姓名&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;KHXM&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;文本&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;编辑框&lt;/div&gt;&lt;div&gt;合同信息&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;HTXX&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;内部对象&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;选项编辑框&lt;/div&gt;&lt;div&gt;开户银行&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;KHYH&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;内部对象&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;选项编辑框&lt;/div&gt;&lt;div&gt;支行名称&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;ZHMC&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;文本&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;编辑框&lt;/div&gt;&lt;div&gt;银行账户名称&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;YHZHMC&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;文本&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;编辑框&lt;/div&gt;&lt;div&gt;银行账号&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;YHZH&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;文本&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;编辑框&lt;/div&gt;&lt;div&gt;初始受益份额&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;CSSYFE&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;数值型&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;编辑框&lt;/div&gt;&lt;div&gt;当前受益份额&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;DQSYFE&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;数值型&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;编辑框&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="79PVir5TLMsAhhLRZjO0-12" vertex="1">
+          <mxGeometry x="30" width="150" height="320" as="geometry">
+            <mxRectangle width="150" height="320" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FCfZ8RU9Q_l8p1jcDTuG-5" target="FCfZ8RU9Q_l8p1jcDTuG-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-22" value="&lt;span style=&quot;font-size: 12px; font-weight: 700; background-color: rgb(251, 251, 251);&quot;&gt;LcHTRSGSQBD.xsxm=Txsxm.ID&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="79PVir5TLMsAhhLRZjO0-16" vertex="1" connectable="0">
+          <mxGeometry x="0.16" y="3" relative="1" as="geometry">
+            <mxPoint x="-12" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.424;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FCfZ8RU9Q_l8p1jcDTuG-5" target="79PVir5TLMsAhhLRZjO0-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="350" />
+              <mxPoint x="350" y="779" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FCfZ8RU9Q_l8p1jcDTuG-12" target="79PVir5TLMsAhhLRZjO0-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="350" />
+              <mxPoint x="730" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-25" value="TXSXM.ID=THTSYR.CPID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="79PVir5TLMsAhhLRZjO0-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.1469" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-23" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;LcHTRSGSQBD.DDID=TDZHTK.YWID&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="830" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="79PVir5TLMsAhhLRZjO0-24" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;LcHTRSGSQBD.KHID=THTSYR.KHH&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="285" y="790" width="230" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
